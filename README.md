@@ -1,21 +1,29 @@
-# React Task Manager (Part 1) - AUREX Internship
+# React Task Manager
 
-This project is part of the AUREX Full-Stack Internship (Month 2, Week 1), where the Month 1 JavaScript Task Manager has been successfully reconstructed into a component-driven React.js application using Vite[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).
+Aurex Internship - Month 2 Project: A modern, responsive Task Manager application built with React and Vite.
 
 ## 🚀 Features
-- **Add Tasks:** Controlled form input with validation to prevent adding empty tasks[span_2](start_span)[span_2](end_span).
-- **Dynamic Display:** Render tasks dynamically utilizing list mapping[span_3](start_span)[span_3](end_span).
-- **Toggle Status:** Mark tasks as complete or incomplete with visual feedback[span_4](start_span)[span_4](end_span).
-- **Delete Functionality:** Remove individual tasks seamlessly from the application state[span_5](start_span)[span_5](end_span).
-- **Modern UI:** Clean, responsive design featuring a modern gradient and card layout.
 
-## 📁 Component Architecture
-- `App` (Main State Management & Logic)
-  - Styled Container (Header, Form, and Task List UI)
+* **Add Tasks:** Controlled form input with validation to prevent adding empty tasks.
+* **Dynamic Display:** Render tasks dynamically utilizing list mapping.
+* **Toggle Status:** Mark tasks as complete or incomplete with visual feedback.
+* **Delete Functionality:** Remove individual tasks seamlessly from the application state.
+* **Modern UI:** Clean, responsive design featuring a modern gradient and card layout.
 
-## 🛠️ Setup & Installation Instructions
-1. Clone the repository or download the source files.
-2. Open your terminal in the project directory and install dependencies:
-   ```bash
-   npm install
+## 📂 Component Architecture
+
+* **App (Main State Management & Logic)**
+  * **Styled Container (Header, Form, and Task List UI)**
+
+## 🛠️ Tech Stack
+
+* **React (Vite)**
+* **JavaScript (ES6+)**
+* **CSS3 / Modern Styling**
+* **Vercel (Deployment)**
+
+## 💻 Live Demo
+
+You can view the live project here: [Vercel Live URL](https://week-1-react-task-manager-new.vercel.app/)
+
    
